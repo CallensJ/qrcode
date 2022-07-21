@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+
+    a{
+        color: hsl(228, 45%, 44%);
+    }
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF;
+    
+
+    .content{
+        border: 1px solid black;
+        width: 300px;
+
+        header{
+           width: 300px;
+           height: 300px;
+           margin: 0 auto;  
+            .image{
+                width: 300px;
+                height: 300px;
+                border-radius: 10%;
+                padding: 15px;
+                
+                
+
+            }
+        }
+    }
+}
