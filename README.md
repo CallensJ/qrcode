@@ -52,8 +52,8 @@ reviewed somes basic flexbox rules since did not use it for a while now
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/johan030)
-- Twitter - [@yourusername](https://www.twitter.com/johan_callens)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/johan030]
+- Twitter - [https://www.twitter.com/johan_callens]
 
 
 ## Thanks
