@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/CallensJ/qrcode]
-- Live Site URL: [Add live site URL here](https://callensj.github.io/qrcode/)
+- Live Site URL: [https://callensj.github.io/qrcode/]
 
 ## My process
 
@@ -55,3 +55,8 @@ reviewed somes basic flexbox rules since did not use it for a while now
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/johan030)
 - Twitter - [@yourusername](https://www.twitter.com/johan_callens)
 
+
+## Thanks
+I did it on my own , just wanted to thanks Jonas Schmedtmann even i know he'll never stop on my github haha.
+i follow his courses from the begining . i just finished css master level II course before trying frontend mentor. 
+Let's see how far i'll be able to go 
