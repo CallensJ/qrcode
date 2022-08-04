@@ -30,21 +30,45 @@ body {
 }
 
 .container .content {
-  width: 350px;
+  width: 300px;
 }
 
 .container .content .image_container {
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
 }
 
 .container .content .image_container .image {
-  width: 320px;
-  height: 320px;
+  width: 280px;
+  height: 280px;
   border-radius: 10px;
   margin-top: 10px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
+}
+
+.container .content .text-container {
+  margin-top: 20px;
+}
+
+.container .content .text-container .bloc1,
+.container .content .text-container .bloc2 {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  margin: 20px;
+}
+
+.container .content .text-container .bloc1 .heading-1,
+.container .content .text-container .bloc2 .heading-1 {
+  color: #1f3251;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.container .content .text-container .bloc1 .paragraph,
+.container .content .text-container .bloc2 .paragraph {
+  font-size: 15px;
+  color: #7b879d;
 }
 /*# sourceMappingURL=style.css.map */
